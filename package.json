@@ -1,0 +1,15 @@
+{
+  "name": "zombie1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "zombie": "^6.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
